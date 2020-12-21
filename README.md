@@ -8,7 +8,7 @@ dev_dependencies:
   omega_flutter_lint:
     git:
       url: https://github.com/Omega-R/omega_flutter_lint.git
-      ref: v0.0.2
+      ref: v1.0.0
 ```
 
 Then add an include in your `analysis_options.yaml` file:

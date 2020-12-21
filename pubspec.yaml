@@ -1,5 +1,5 @@
 name: omega_flutter_lint
-version: 0.0.2
+version: 1.0.0
 description: Omega's Flutter lint rules.
 
 environment:
