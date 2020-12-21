@@ -7,11 +7,11 @@ To use the lints add a dev dependency in your `pubspec.yaml`:
 dev_dependencies:
   omega_flutter_lint:
     git:
-      url: https://github.com/Omega-R/OmegaFlutterLint.git
-      ref: v1.0.0
+      url: https://github.com/Omega-R/omega_flutter_lint.git
+      ref: v0.0.2
 ```
 
 Then add an include in your `analysis_options.yaml` file:
 ```yaml
-  include: package:omega_flutter_lint/analysis_options.yaml
+include: package:omega_flutter_lint/analysis_options.yaml
 ```
