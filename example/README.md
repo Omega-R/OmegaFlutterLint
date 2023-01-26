@@ -1,4 +1,3 @@
-# omega_flutter_lint
 ![pub version](https://img.shields.io/pub/v/omega_flutter_lint?logo=dart)](https://pub.dev/packages/omega_flutter_lint)
 
 ## Install

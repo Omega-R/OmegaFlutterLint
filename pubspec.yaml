@@ -1,6 +1,7 @@
 name: omega_flutter_lint
-version: 1.0.0
-description: Omega's Flutter lint rules.
-
+description: List of rules used in Omega-R for Flutter projects
+version: 2.0.0
+repository: https://github.com/Omega-R/omega_flutter_lint
+homepage: https://omega-r.com
 environment:
-  sdk: '>=2.0.0 <3.0.0'
+  sdk: '>=2.16.0 <3.0.0'
