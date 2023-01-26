@@ -6,7 +6,7 @@
 Add `omega_flutter_lint` as dev dependency to your `pubspec.yaml`.
 ```yaml
 dev_dependencies:
-  omega_flutter_lint: ^2.0.0
+  omega_flutter_lint: ^3.0.0
 ```
 or
 ```yaml

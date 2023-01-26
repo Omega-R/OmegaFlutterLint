@@ -1,11 +1,9 @@
-[![pub version](https://img.shields.io/pub/v/omega_flutter_lint?logo=dart)](https://pub.dev/packages/omega_flutter_lint)
-
 ## Install
 
 Add `omega_flutter_lint` as dev dependency to your `pubspec.yaml`.
 ```yaml
 dev_dependencies:
-  omega_flutter_lint: ^2.0.0
+  omega_flutter_lint: ^3.0.0
 ```
 or
 ```yaml
